@@ -37,10 +37,10 @@
 
    如果 FFmpeg 正常運行，你會看到版本資訊。
 
-   - 之後，執行 Python 程式：
+   - 之後，執行 run.bat：
 
    ```bash
-   python ytdownloader.py
+   run.bat
    ```
 
    - 程式會提示你輸入 YouTube 影片網址。貼上 YouTube 影片網址並按下 Enter。
